@@ -1,5 +1,5 @@
 # Tutorial-DESI-DR1
-Tutorial for using the DESI DR1 data. Before the public release, this is only available to DESI members with data access. After the public release, it will be available to all, noting that the DESI data license and acknowledgements are mandatory.
+Tutorial for using the DESI DR1 data. Before the public release, this is only available to DESI members with data access. After the public release, it will be available to all, noting that respecting the [DESI data license and acknowledgements](https://data.desi.lbl.gov/doc/acknowledgments/) is mandatory.
 
 ## Instructions
 1. Prior to the public release, authorized users (DESI members) need to create a CSDC SSO account with their DESI NERSC email: https://sso.csdc.noirlab.edu/account/signup/ 
@@ -10,7 +10,7 @@ Tutorial for using the DESI DR1 data. Before the public release, this is only av
 
 ## Jupyter notebooks in this repo
 - [How_to_use_SPARCL_with_DESI_DR1.ipynb](https://github.com/astro-datalab/Tutorial-DESI-DR1/blob/main/How_to_use_SPARCL_with_DESI_DR1.ipynb)
-- 
+  
 ### Other links
 - DESI Acknowledgments and Data License: https://data.desi.lbl.gov/doc/acknowledgments/ ([Public page acknowledgments](https://www.desi.lbl.gov/acknowledgements/))
 - Astro Data Lab homepage: https://datalab.noirlab.edu/
